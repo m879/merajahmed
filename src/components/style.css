@@ -1,0 +1,22 @@
+#card{
+    margin-top: 30px;
+}
+#card:hover{
+  box-shadow: 5px 10px 20px 1px rgba(255,255,200,1)!important;
+  transform: translateY(10px);
+}
+#title{
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+}
+#overflow{
+    overflow: hidden;
+}
+.card-img-top{
+    transform: scale(1);
+    transition: transform 0.8s ease;
+}
+.card-img-top:hover{
+    transform: scale(1.5);
+}
