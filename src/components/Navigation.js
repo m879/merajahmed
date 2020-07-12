@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import './style.css';
-import ParticlesBg from 'particles-bg';
+// import ParticlesBg from 'particles-bg';
 
 
 
@@ -19,7 +19,7 @@ const mystyle={
 const Navigation = () => {
     return (
        <div>
-         <ParticlesBg type="color" bg={true}/>
+         {/* <ParticlesBg type="color" bg={true}/> */}
 
         <Navbar  className="py-3" expand="lg" style={{borderBottom:'2px solid red'}}>
             <Navbar.Brand href="#home" style={mystyle}>Meraj Ahmed</Navbar.Brand>
