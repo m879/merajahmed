@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/merajahmed/static/css/main.479828a3.chunk.css",
+    "main.js": "/merajahmed/static/js/main.87939d39.chunk.js",
+    "main.js.map": "/merajahmed/static/js/main.87939d39.chunk.js.map",
+    "runtime-main.js": "/merajahmed/static/js/runtime-main.51744eba.js",
+    "runtime-main.js.map": "/merajahmed/static/js/runtime-main.51744eba.js.map",
+    "static/css/2.14776d5b.chunk.css": "/merajahmed/static/css/2.14776d5b.chunk.css",
+    "static/js/2.13a5ee64.chunk.js": "/merajahmed/static/js/2.13a5ee64.chunk.js",
+    "static/js/2.13a5ee64.chunk.js.map": "/merajahmed/static/js/2.13a5ee64.chunk.js.map",
+    "index.html": "/merajahmed/index.html",
+    "precache-manifest.722fd136f8995b497f787206a035aa4a.js": "/merajahmed/precache-manifest.722fd136f8995b497f787206a035aa4a.js",
+    "service-worker.js": "/merajahmed/service-worker.js",
+    "static/css/2.14776d5b.chunk.css.map": "/merajahmed/static/css/2.14776d5b.chunk.css.map",
+    "static/css/main.479828a3.chunk.css.map": "/merajahmed/static/css/main.479828a3.chunk.css.map",
+    "static/js/2.13a5ee64.chunk.js.LICENSE.txt": "/merajahmed/static/js/2.13a5ee64.chunk.js.LICENSE.txt",
+    "static/media/blog1.jpg": "/merajahmed/static/media/blog1.52102d53.jpg",
+    "static/media/img2.png": "/merajahmed/static/media/img2.f989cd15.png",
+    "static/media/img3.png": "/merajahmed/static/media/img3.9bc799a3.png",
+    "static/media/meraj.png": "/merajahmed/static/media/meraj.444972b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51744eba.js",
+    "static/css/2.14776d5b.chunk.css",
+    "static/js/2.13a5ee64.chunk.js",
+    "static/css/main.479828a3.chunk.css",
+    "static/js/main.87939d39.chunk.js"
+  ]
+}
